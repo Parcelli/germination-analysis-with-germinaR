@@ -7,19 +7,11 @@ This repository is designed for **students, researchers, and scientists** who ar
 ---
 
 ##  Contents
-- Introduction to R and Rstudio
-- Understanding germination data and required format for analysis
-- Installing and using `germinaR`
-- Data visualization 
-- Hands-on examples with real data
-
----
-
-## Background
-Germination analysis is essential in plant science, agriculture, and ecological studies.  
-This tutorial introduces commonly used germination metrics and demonstrates how to compute and visualize them using R.
-
-No prior advanced R knowledge is required.
+- 01: Introduction to R and Rstudio
+- 02: Importing and formatting germination data for analysis
+- 03: Germination analysis using germinaR 
+- 04: Data Visualization
+- 05: Hands-on examples with real data
 
 ---
 
