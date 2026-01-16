@@ -73,4 +73,11 @@ If R is correctly installed you will get information about the R version install
 - You only need to install R once, but you may occassionally update it when a new versions are released.
 
 ## Navigating R studio
+When you open RStudio, you will see several panels (called panes) arranged in a default layout. Each pane has a specific purpose and helps you work efficiently in R.
+
+In the default layout, RStudio has four panes:
+
+<img width="960" height="540" alt="rstudio" src="https://github.com/user-attachments/assets/784558e9-2820-4d43-8bfe-aecfeb8667b6" />
+
 ## Working in R and Rstudio
+
