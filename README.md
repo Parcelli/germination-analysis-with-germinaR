@@ -7,6 +7,8 @@ This repository is designed for **students, researchers, and scientists** who ar
 ---
 
 ##  Contents
+The tutorial is divided into five parts: 
+
 - 01: Introduction to R and Rstudio
 - 02: Importing and formatting germination data for analysis
 - 03: Germination analysis using germinaR 
