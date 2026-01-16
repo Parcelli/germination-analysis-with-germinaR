@@ -31,6 +31,46 @@ R studio is a software interface that makes it easier to write R scripts and int
 
 ## Installing R and R studio
 
+To follow this tutorial, you need to install R and RStudio on your computer. Below are instructions on how to install R and Rstudio for windows.
+
+**Step 1: Install R**
+
+* Go to the Comprehensive R Archive Network (CRAN):
+https://cran.r-project.org
+
+* Click Download R for Windows
+
+* Select base
+
+* Click Download R x.x.x for Windows (choose the latest version)
+
+* Open the downloaded file and follow the installation prompts (You can accept the default settings)
+
+**Step 2: Install RStudio**
+
+* Visit the RStudio website: https://posit.co/download/rstudio-desktop/
+
+* Download RStudio Desktop (Free) for Windows
+
+* Open the installer and follow the setup instructions
+
+
+**Step 3: Verify the Installation**
+
+Open RStudio
+
+In the Console pane, type:
+
+```
+version
+
+```
+If R is correctly installed you will get information about the R version installed.
+
+*💡 Helpful Tip for Beginners*
+
+- Install R first before Rstudio. Rstudio will not work without R.
+- You only need to install R once, but you may occassionally update it when a new versions are released.
 
 ## Navigating R studio
 ## Working in R and Rstudio
