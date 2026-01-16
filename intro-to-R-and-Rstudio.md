@@ -100,31 +100,30 @@ RStudio will open a new session inside your project folder.
 
 ### Recommended Folder Structure
 
-Inside your project, create the following folders:
+Inside your project, create the following folders: 
+* `Data/` → raw input data
+* `Scripts/` → R scripts
+* `Results/` → output tables
+* `Figures/` → plots and figures
 
-```
-project_folder/
-├── data/
-├── scripts/
-├── results/
-├── figures/
-```
+#### Create folders
 
-* `data/` → raw input data
-* `scripts/` → R scripts
-* `results/` → output tables
-* `figures/` → plots and figures
+1. In Files/plots/help pane in RStudio, click **New Folder**
+2. Enter folder name 
+3. Click Ok. Repeat this steps till you have all the folders created as below
 
----
 
-## 🧾 Introduction to R Scripts
+<img width="984" height="569" alt="rproject_folder" src="https://github.com/user-attachments/assets/999f43a7-aae5-402f-9e51-0d1d294c0c98" />
+
+
+## ntroduction to R Scripts
 
 An **R script** is a text file where you write R code.
 
 * Scripts allow you to **save**, **re-run**, and **share** your analysis
 * They provide a complete record of your work
 
-Create a new script:
+To Create a new script:
 
 * **Mac:** `Shift + Cmd + N`
 * **Windows/Linux:** `Shift + Ctrl + N`
