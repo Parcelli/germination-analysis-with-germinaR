@@ -7,7 +7,7 @@ This repository is designed for **students, researchers, and scientists** who ar
 ---
 
 ##  Contents
-- Introduction to R
+- Introduction to R and Rstudio
 - Understanding germination data and required format for analysis
 - Installing and using `germinaR`
 - Data visualization 
