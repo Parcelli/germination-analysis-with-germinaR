@@ -17,7 +17,7 @@ R studio is a software interface that makes it easier to write R scripts and int
   
 * **Less point and click**
   
-  Unlike gaphical user interface (GUI) software, R does not depend on remebering which buttons to click or the order in which they were clicked.
+  Unlike gaphical user interface (GUI) software, R does not depend on remembering which buttons to click or the order in which they were clicked.
   Instead your entire analysis is written as a script. To repeat or update the analysis , you simply run the script again ensuring consistency and reducing human error.
   
 * **Strong and supportive Community**
